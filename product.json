@@ -1,0 +1,31 @@
+
+{
+  "Product Name": {
+    "0": "Ice cream",
+    "1": "pen",
+    "2": "laptop",
+    "3": "Phone",
+    "4": "candies"
+  },
+  "Brand": {
+      "0": "Arun",
+     "1": "Flair",
+    "2": "HP",
+    "3": "Apple",
+    "4": "Diary milk"
+  },
+  "Manufacture Date": {
+    "0": "2 jan 2022",
+    "1": "3rd feb 2019",
+    "2": "4th dec 2018",
+    "3": "5th mar 2019",
+    "4": "9th june 2020"
+  },
+  "price": {
+    "0": 350,
+    "1": 280,
+    "2": 80000,
+    "3": 90000,
+    "4": 200
+  }
+}
